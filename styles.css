@@ -1,87 +1,0 @@
-.246_4 { 
-	overflow:hidden;
-}.e246_4 { 
-	width:1666px;
-	height:854px;
-	position:absolute;
-	background-image:url(images/main.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.e250_16 { 
-	background-color:rgba(27.000000290572643, 44.000001177191734, 74.0000031888485, 0.75);
-	width:1666px;
-	height:854px;
-	position:absolute;
-	left:0px;
-	top:0px;
-}.e250_4 { 
-	color:rgba(255, 255, 255, 1);
-	width:458.296875px;
-	height:61.10624694824219px;
-	position:absolute;
-	left:604px;
-	top:121px;
-	font-family:Montserrat;
-	text-align:left;
-	font-size:50.40966796875px;
-	letter-spacing:0;
-}.e250_6 { 
-	color:rgba(250.00000029802322, 211.00000262260437, 178.00000458955765, 1);
-	width:314.11041259765625px;
-	height:32.311527252197266px;
-	position:absolute;
-	left:675.9447631835938px;
-	top:210.8104248046875px;
-	font-family:Montserrat;
-	text-align:left;
-	font-size:26.655433654785156px;
-	letter-spacing:0;
-}.e250_7 { 
-	color:rgba(250.00000029802322, 211.00000262260437, 178.00000458955765, 1);
-	width:160.20681762695312px;
-	height:40.67427062988281px;
-	position:absolute;
-	left:762px;
-	top:593px;
-	font-family:Montserrat;
-	text-align:left;
-	font-size:33.20348358154297px;
-	letter-spacing:0;
-}.e250_11 { 
-	color:rgba(250.00000029802322, 211.00000262260437, 178.00000458955765, 1);
-	width:234.91465759277344px;
-	height:30.713224411010742px;
-	position:absolute;
-	left:725px;
-	top:679.6420288085938px;
-	font-family:Montserrat;
-	text-align:left;
-	font-size:25.499732971191406px;
-	letter-spacing:0;
-}.250_12 { 
-	border:1.7354166507720947px solid rgba(250.00000029802322, 211.00000262260437, 178.00000458955765, 1);
-}.e250_12 { 
-	width:70.28437805175781px;
-	height:0px;
-	position:absolute;
-	left:798.2916870117188px;
-	top:669.870849609375px;
-}.e257_4 { 
-	width:272px;
-	height:277.3995056152344px;
-	position:absolute;
-	left:697px;
-	top:287px;
-	background-image:url(images/rectangle_2.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}.e257_5 { 
-	width:129px;
-	height:30px;
-	position:absolute;
-	left:768px;
-	top:740px;
-	background-image:url(images/rectangle_3.png);
-	background-repeat:no-repeat;
-	background-size:cover;
-}
